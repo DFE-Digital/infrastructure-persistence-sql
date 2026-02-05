@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Tests/" />
+  <Folder Name="/Tests/Unit/">
+    <Project Path="Tests/Unit/Dfe.Data.Common.Infrastructure.Persistence.Sql.Dapper.Tests.csproj" />
+  </Folder>
+  <Project Path="src/Dfe.Data.Common.Infrastructure.Persistence.Sql.Dapper.csproj" />
+</Solution>
